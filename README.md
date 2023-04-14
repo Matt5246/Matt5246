@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">Student of Computer Science, Front end react dev</h3>
+<h3 align="center">Student of Computer Science, and Front end react dev</h3>
 
 - 🌱 I’m currently learning **react, next, .Net,**
 
