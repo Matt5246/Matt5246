@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">Student of Computer Science, and react/Vite dev</h3>
 
-- 🌱 I’m currently learning **react, next, .Net, Java, Python**
+- 🌱 I’m currently learning **next, Java, Python**
 
-- 🌱 I’ll learn **Flutter in the near future**
+- 🌱 I’ll learn **Angular in the near future**
 
 - 📫 How to reach me **matt57628@gmail.com || typecript@gmail.com**
 
